@@ -22,16 +22,16 @@ Stack & Setup
 
 How to Run
 1. Backend
-   cd backend
-   npm install
-   npm start
-   (runs on http://localhost:4000)
+   - cd backend
+   - npm install
+   - npm start
+   - (runs on http://localhost:4000)
 
 2. Frontend
-   cd frontend
-   npm install
-   npm run dev
-   (open http://localhost:5173)
+   - cd frontend
+   - npm install
+   - npm run dev
+   - (open http://localhost:5173)
 
 Design Choices & Trade-offs
 - Kept the backend super light. No real AI calls, just mocked data with setTimeouts and socket events.
