@@ -49,6 +49,6 @@ Expected Demo Flow
 Future Ideas
 - Integrate with real LLM (OpenAI/Anthropic) for planning + summarization.
 - Pull actual financial data from an API
-- Add retry buttons when an agent “fails”
 - Support multiple requests in a single session
+- Enhance the UI with improved visuals, animations, and interactive feedback for a smoother user experience.
 
